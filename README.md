@@ -1,11 +1,25 @@
-Azure subscription - Create one for free.
+## Prerequisites
 
-Python 3.7 or later.
+Before you begin, make sure you have the following:
 
-Your Python installation should include pip. You can check if you have pip installed by running pip --version on the command line. Get pip by installing the latest version of Python.
+- An **Azure subscription**.
+- **Python 3.7 or later**.
+- A Python installation that includes **pip**. To verify, run:
 
-pip install azure-ai-documentintelligence==1.0.2
+  ```bash
+  pip --version
+  ```
 
-The latest version of Visual Studio Code or your preferred IDE. For more information, see Getting Started with Python in Visual Studio Code.
+- The Azure Document Intelligence SDK:
 
-A Foundry Tools or Document Intelligence resource. Once you have your Azure subscription, create a single-service or multi-service Document Intelligence resource, in the Azure portal, to get your [...]
+  ```bash
+  pip install azure-ai-documentintelligence==1.0.2
+  ```
+
+- The latest version of **Visual Studio Code**, or your preferred IDE.
+- A **Document Intelligence** resource in Azure.
+- The **Cognitive Services User** role assigned to your Microsoft Entra ID (AAD) identity for the target Document Intelligence resource.
+
+## Authentication
+
+This project uses **Microsoft Entra ID (AAD)** authentication.
