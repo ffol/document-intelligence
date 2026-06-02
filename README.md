@@ -8,4 +8,4 @@ pip install azure-ai-documentintelligence==1.0.2
 
 The latest version of Visual Studio Code or your preferred IDE. For more information, see Getting Started with Python in Visual Studio Code.
 
-A Foundry Tools or Document Intelligence resource. Once you have your Azure subscription, create a single-service or multi-service Document Intelligence resource, in the Azure portal, to get your key and endpoint. You can use the free pricing tier (F0) to try the service, and upgrade later to a paid tier for production.
+A Foundry Tools or Document Intelligence resource. Once you have your Azure subscription, create a single-service or multi-service Document Intelligence resource, in the Azure portal, to get your [...]
