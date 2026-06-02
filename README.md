@@ -17,7 +17,7 @@ Before you begin, make sure you have the following:
   ```
 
 - The latest version of **Visual Studio Code**, or your preferred IDE.
-- A **Document Intelligence** resource in Azure.
+- A **Foundry Tools or Document Intelligence** resource in Azure.
 - The **Cognitive Services User** role assigned to your Microsoft Entra ID (AAD) identity for the target Document Intelligence resource.
 
 ## Authentication
