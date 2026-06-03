@@ -13,6 +13,7 @@ Before you begin, make sure you have the following:
 - The Azure Document Intelligence SDK:
 
   ```bash
+  pip install azure.identity
   pip install azure-ai-documentintelligence==1.0.2
   ```
 
