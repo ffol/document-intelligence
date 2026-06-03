@@ -16,6 +16,9 @@ Before you begin, make sure you have the following:
   pip install azure.identity
   pip install azure-ai-documentintelligence==1.0.2
   ```
+  ```bash
+  pip install azure-ai-documentintelligence==1.0.2
+  ```
 
 - The latest version of **Visual Studio Code**, or your preferred IDE.
 - A **Foundry Tools or Document Intelligence** resource in Azure.
