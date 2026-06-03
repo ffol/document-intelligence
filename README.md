@@ -14,7 +14,6 @@ Before you begin, make sure you have the following:
 
   ```bash
   pip install azure.identity
-  pip install azure-ai-documentintelligence==1.0.2
   ```
   ```bash
   pip install azure-ai-documentintelligence==1.0.2
