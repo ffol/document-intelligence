@@ -3,6 +3,9 @@
 Before you begin, make sure you have the following:
 
 - An **Azure subscription**.
+  ```bash
+  pip install azure.identity
+  ```
 - **Python 3.7 or later**.
 - A Python installation that includes **pip**. To verify, run:
 
@@ -12,9 +15,6 @@ Before you begin, make sure you have the following:
 
 - The Azure Document Intelligence SDK:
 
-  ```bash
-  pip install azure.identity
-  ```
   ```bash
   pip install azure-ai-documentintelligence==1.0.2
   ```
