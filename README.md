@@ -2,7 +2,7 @@
 
 Before you begin, make sure you have the following:
 
-- An **Azure subscription**.
+- An **Azure subscription with azure identity module available**.
   ```bash
   pip install azure.identity
   ```
